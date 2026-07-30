@@ -2,6 +2,7 @@
 
 - Large Language Models
 - Agentic AI
+- Embedding Models
 
 
 
