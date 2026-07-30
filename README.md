@@ -1,6 +1,10 @@
-## Hi there 👋
+## Currently exploring
 
-I enjoy diving deep into AI.
+- Large Language Models
+- Agentic AI
+
+
+
 <!--
 **fatemehnikan/fatemehnikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
